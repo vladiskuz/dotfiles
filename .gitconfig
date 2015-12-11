@@ -1,0 +1,9 @@
+[user]
+	email = vladiskuz@gmail.com
+	name = Vladislav Kuzmin
+[diff]
+	tool = vimdiff
+[difftool]
+	prompt = false
+[alias]
+	d = difftool
