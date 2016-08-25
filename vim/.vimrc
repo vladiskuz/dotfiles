@@ -38,6 +38,7 @@ Plugin 'VundleVim/Vundle.vim'  " let Vundle manage Vundle, required
 
 Plugin 'tomasr/molokai'
 Plugin 'scrooloose/nerdTree'
+Plugin 'kien/ctrlp.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()              " required for Vundle
